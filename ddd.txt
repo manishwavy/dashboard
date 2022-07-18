@@ -1,3 +1,4 @@
 https://technext.github.io/regal/
 https://technext.github.io/material-dashboard-2/
 https://technext.github.io/Breeze-Free-Bootstrap-Admin-Template/index.html
+https://www.geeksforgeeks.org/what-is-tpl-file-in-php-web-design/?ref=lbp
